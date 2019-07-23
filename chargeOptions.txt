@@ -1,0 +1,5 @@
+#p wB97XD/6-31G* Integral(Grid=SuperFineGrid) SCF(Conver=10) Pop=CHelpG
+
+YLD 124 monomer
+
+0 1

@@ -1,0 +1,5 @@
+#p tda(NStates=10) wB97XD/6-31G* NoSymm Integral(Grid=SuperFineGrid) SCF(Conver=10) iop(9/40=5) Charge
+
+Monomer with charges
+
+0 1
