@@ -1,4 +1,4 @@
-The code in this repository can be used to generate an excitonic Hamiltonian of a molecular aggregate.
+The scripts in this repository can be used to generate an excitonic Hamiltonian of a molecular aggregate.
 The protocol for running this code to generate such a Hamiltonian is described in the paper
 "Excitonic Hamiltonians for Calculating Optical Absorption Spectra and Optoelectronic Properties of Molecular Aggregates and Solids"
 by A.A. Kocherzhenko, S.V. Shedge, P.F. Germaux, M. Heidarian, C.M. Isborn, J. Vis. Exper., 2020, Issue 159, e60598, 
